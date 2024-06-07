@@ -1,5 +1,5 @@
 title: Cryss Thompson
-#logo: 
+logo: assets/CT Logo.png 
 Description: Data Analytics Enthusiast | Fast Learner | Curious Explorer
-show_downloads: false
+show_downloads: true
 theme: jekyll-theme-minimal

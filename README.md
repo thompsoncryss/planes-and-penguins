@@ -2,11 +2,11 @@
 ## Lets find out...
 
 ## Some of Their Skills Include
-**Data Analysis Tools Used** - SQL, Microsoft Excel, Google Sheets
+**Data Analysis Tools That They Like to Use** - SQL, Microsoft Excel, Google Sheets
 
-**Data Visualization Tools Used** - Power BI, Tableau
+**Favorite Data Visualization Tools** - Power BI, Tableau
 
-**Expertise** - Data Analysis, Data Cleaning, Data Manipulation, Business Development, Project Management, Time Management, Organizational Skills, Communication, Creativity, Problem -Solving, Self-Starter
+**With a Specialy In** - Data Analysis, Data Cleaning, Data Manipulation, Business Development, Project Management, Time Management, Organizational Skills, Communication, Creativity, Problem -Solving, Self-Starter
 
 
 ## Wanna See Some Projects They've Been Working On?

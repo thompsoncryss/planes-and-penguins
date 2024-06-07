@@ -1,6 +1,5 @@
 # Who is Cryss?
 
-assets/Cryss Thompson Headshot C.jpg
 
 ## Lets find out...
 

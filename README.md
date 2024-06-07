@@ -27,7 +27,7 @@ heypooo
 
 
 
-### Curious About How They Used Data in Their Work Life?
+## Curious About How They Used Data in Their Work Life?
 **Flight School Representative**
 Aviation Adventures	8/2023 - Present 
 - Utilize strong organizational skills to streamline an outdated filing system and develop task-specific spreadsheets using Google Sheets, resulting in a reduction in retrieval time by over 70% and increased productivity.

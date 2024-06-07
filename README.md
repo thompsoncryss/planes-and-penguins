@@ -1,7 +1,7 @@
 # Who is Cryss?
 ## Lets find out...
 
-### Some of Their Skills Include
+## Some of Their Skills Include
 **Data Analysis Tools Used** - SQL, Microsoft Excel, Google Sheets
 
 **Data Visualization Tools Used** - Power BI, Tableau

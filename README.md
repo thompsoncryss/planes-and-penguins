@@ -6,7 +6,7 @@ Data Analysis Tools Used: SQL, Microsoft Excel, Google Sheets
 
 Data Visualization Tools Used: Power BI, Tableau
 
-How I Excel: Data Analysis, Data Cleaning, Data Manipulation, Business Development, Project Management, Time Management, Organizational Skills, Communication, Creativity, Problem -Solving, Self-Starter
+Expertise: Data Analysis, Data Cleaning, Data Manipulation, Business Development, Project Management, Time Management, Organizational Skills, Communication, Creativity, Problem -Solving, Self-Starter
 
 
 ### Project 1

@@ -1,22 +1,57 @@
 # Cryss' Portfolio
 Analytics Portfolio
 
-### Work Expierence
-Blah
-blah 
-blah
+### Skills
+Data Analysis Tools Used: SQL, Microsoft Excel, Google Sheets
+Data Visualization Tools Used: Power BI, Tableau
+Expertise: Data Analysis, Data Cleaning, Data Manipulation, Business Development, Project Management, Time Management, Organizational Skills, Communication, Creativity, Problem -Solving, Self-Starter
 
 
-### Projects 1
+### Project 1
 
 hey
 
 
-### Projects 2
+### Project 2
 
 yooo
 
-## Projects 3
+## Project 3
 
 heypooo
 
+
+
+
+
+### Work Expierence
+Flight School Representative
+Aviation Adventures	8/2023 - Present 
+•	Utilize strong organizational skills to streamline an outdated filing system and develop task-specific spreadsheets using Google Sheets, resulting in a reduction in retrieval time by over 70% and increased productivity.
+•	Improve aircraft maintenance efficiency by 30% using Excel formulas, functions, data manipulation, sorting, filtering, pivot tables, and data visualization, leading to reduced downtime and overall cost savings.
+•	Collaborate with cross-functional teams to gather reporting requirements and identify relevant data points to translate technical insights into clear actionable information for non-technical stakeholders.
+
+
+Freelancer
+Independent Contractor	2/2022 - Present  
+•	Notably boosted hourly earnings by 300% and slash expenses by 50% through data-driven optimization, maximizing overall earning potential using an independently created spreadsheet, assisting in cutting decision making time to just from minutes to seconds.
+•	Proficient in developing and managing complex datasets and reports using Microsoft Power BI, with a focus on transforming raw data into visually engaging and impactful dashboards and reports. 
+•	Managing datasets, clean, sort and filter data to identify trends, patterns, and outliers, as well as conduct analysis and data profiling.
+
+Senior Operations Associate
+Dray Alliance	8/2022 – 8/2023 
+•	Boosted team productivity 25% by collaborating with the data team to develop and debug the SQL queries used to analyze container lifecycles, leading to a more efficient and effective operational workflow.
+•	Enhanced the daily ingate report using Tableau and Google Sheets, leading to a $100k+ decrease in demurrage fees and a more efficient operational process.
+•	Identified cost efficiencies for 1,500+ shipping containers, resulting in improved client relationships and increased account profitability.
+
+
+Studio Manager
+Rush Cycle	10/2021 – 3/2022 
+•	Curated spreadsheets and data visualizations to analyze studio data, resulting in the implementation of new revenue strategies and a 35% increase in marketing effectiveness.
+•	Discovered and addressed KPI's that helped with the implementation of my newly created business solutions, resulting in a 40% reduction in attrition, leading to improved team stability and productivity.
+
+
+Regional Manager
+Orangetheory Fitness	8/2017 – 10/2021 
+•	Achieved a sub 2.5% attrition rate in studios with 900+ members through proactive engagement and training while monitoring the performance of existing solutions and recommending changes to improve performance.
+•	Directed the successful launch of a brand-new location, achieving 5-10% revenue increase month over month, ultimately reaching regional top-performing status with over $1M in revenue.

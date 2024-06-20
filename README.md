@@ -17,15 +17,15 @@
 
 ### Project 1
 
-[SQL Queries] (https://github.com/thompsoncryss/sql_queries)
+[SQL Queries](https://github.com/thompsoncryss/sql_queries)
 
 ### Project 2
 
-[Spreadsheets Project] (https://www.canva.com/design/DAF1g2IamvM/wlRMGRoBhLf4IF9nNhmu4A/view?utm_content=DAF1g2IamvM&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+[Spreadsheets Project](https://www.canva.com/design/DAF1g2IamvM/wlRMGRoBhLf4IF9nNhmu4A/view?utm_content=DAF1g2IamvM&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 ## Project 3
 
-[Pivot Tables and Data Viz Project] (https://www.canva.com/design/DAF0cS-bf30/tyWczdiNSIeXqxQ44c26Pg/view?utm_content=DAF0cS-bf30&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+[Pivot Tables and Data Viz Project](https://www.canva.com/design/DAF0cS-bf30/tyWczdiNSIeXqxQ44c26Pg/view?utm_content=DAF0cS-bf30&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 
 

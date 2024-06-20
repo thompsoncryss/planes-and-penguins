@@ -11,7 +11,7 @@
 
 - **Favorite Data Visualization Tools** - Power BI, Tableau
 
-- **With a Specialy In** - Data Analysis, Data Cleaning, Data Manipulation, Business Development, Project Management, Time Management, Organizational Skills, Communication, Creativity, Problem -Solving, Self-Starter
+- **With a Specialty In** - Data Analysis, Data Cleaning, Data Manipulation, Data Entry, Business Development, Project Management, Time Management, Organizational Skills, Communication, Creativity, Problem -Solving, Self-Starter
 
 
 

@@ -1,5 +1,5 @@
 # Who is Cryss?
-<img src="https://github.com/thompsoncryss/planes-and-penguins/blob/c36717aee98bdc6fae7b49d8ea0d3d38c0a3ca62/assets/CT%20Logo.png" width=15% height=15%>
+![headshot](assets/CT Logo.png)
 
 ## Lets find out...
 

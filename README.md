@@ -1,5 +1,5 @@
 # Who is Cryss?
-![headshot](assets/Cryss Thompson Headshot C.jpg)
+![headshot](assets/CT Logo.png)
 
 ## Lets find out...
 

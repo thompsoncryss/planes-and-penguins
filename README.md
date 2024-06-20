@@ -1,5 +1,5 @@
 # Who is Cryss?
-![headshot](assets/CT Logo.png)
+<img src="assets/CT Logo.png" width=50% height=50%>
 
 ## Lets find out...
 

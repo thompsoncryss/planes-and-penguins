@@ -1,6 +1,6 @@
+# Who is Cryss?
 
 ![headshot](assets/CT Logo.png)
-# Who is Cryss?
 
 
 ## Lets find out...

@@ -36,9 +36,3 @@
 
 ## Curious About How They Used Data in Their Work Life?
 **Reach out to request updated resume =)**
-
-
-**Regional Manager**
-Orangetheory Fitness	8/2017 – 10/2021 
-- Achieved a sub 2.5% attrition rate in studios with 900+ members through proactive engagement and training while monitoring the performance of existing solutions and recommending changes to improve performance.
-- Directed the successful launch of a brand-new location, achieving 5-10% revenue increase month over month, ultimately reaching regional top-performing status with over $1M in revenue.
